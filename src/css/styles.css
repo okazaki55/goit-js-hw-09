@@ -1,5 +1,5 @@
-@import url('./01-gallery.css');
-@import url('./02-form.css');
+@import url('./1-gallery.css');
+@import url('./2-form.css');
 
 .main-menu {
   display: flex;
